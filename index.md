@@ -87,21 +87,21 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 - Used **Topic Modelling** in the final product with **Micro-Avg F-1 score 0.58** given 5 chapters in [Stanford NLP Book](https://web.stanford.edu/~jurafsky/slp3/) <br>
 
 ### Amazon Review Prediction `JHU, 2020.4 - 2020.5` <br>
-- Built a system which predicts the **rating of a comment text** with **MSE 0.46** on the score scale of 0-5 using **CNN+BiLSTM** and **BERT**<br>
-- Built a system which predicts the **potential categories the costumer will probably buy** according to the purchase history with the **accuracy of 0.78** using **SVM** <br>
+- Built a system predicting the **rating of a comment text** with **MSE 0.46** on the score scale of 0-5 using **CNN+BiLSTM** and **BERT**<br>
+- Built a system predicting the **categories the costumer will probably buy** given the purchase histories with the **accuracy of 0.78** using **SVM** <br>
 
 ### Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
 - Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 by 20 seconds<br>
 - Trained Mario to kill **as many monsters as possible**
 
 ### Database for Crime Data in Baltimore `JHU, 2019.11 - 2019.12` <br>
-- Designed the **scheme** for the database
-- **Convert the csv file from [Baltimore Police Open Data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij) to SQL file** and import the data into the database
+- Designed the **scheme** for the database according to the dataset from [Baltimore Police Open Data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij)
+- **Convert the csv file to SQL file** and import the data into the database
 - Designed some queries to extract some interesting information
 
 ### Orbit System Generic class Development `HIT, 2019.2 - 2019.6` <br>
 - Built a Orbit System generic **class/interface**, along with 5 different applications using this generic **class/interface**
-- Implemented various design patterns like **Factory Pattern**, **Abstract Factory Pattern**, **Prototype Pattern**, **Adaptor Pattern**, **Bridge Pattern**, etc.
+- Implemented various design patterns like **Abstract Factory Pattern**, **Prototype Pattern**, **Adaptor Pattern**, **Bridge Pattern**, etc.
 
 ## Honors & Awards
 
