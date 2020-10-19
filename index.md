@@ -38,7 +38,7 @@ Harbin, China
 Baltimore, MD, USA
 ```
 
-- Visiting Student
+- Visiting Student and researcher at Computer Science Department
 - Natural Language Processing track, GPA: 3.86
 
 ### **the University of Cambridge** `2017.2 - 2017.2`
