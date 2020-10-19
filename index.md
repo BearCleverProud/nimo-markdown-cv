@@ -52,14 +52,22 @@ Cambridge, UK
 
 ## Research Experience
 
-### **the Johns Hopkins University, Centre for Language and Speech Processing** `2019.9 - 2020.7`
+### **the Johns Hopkins University, Centre for Language and Speech Processing** `JHU, 2020.10 - NOW`
+_Undergraduate Research, co-work with [Kelly Marchisio](https://github.com/kellymarchisio) and supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/~phi/)_<br>
+Topic: Semi-Supervised Machine Translation
+
+### **Harbin Institute of Technology, Machine Intelligence and Translation Lab** `HIT, 2020.10 - NOW`
+_Capstone Thesis, supervised by Dr. [Bing Xu](http://mitlab.hit.edu.cn/2018/0608/c9183a210160/page.htm)_<br>
+Topic: Dialog Emotion Recognition
+
+### **the Johns Hopkins University, Centre for Language and Speech Processing** `JHU, 2019.9 - 2020.7`
 
 _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/~phi/)_<br>
 - Studied and implemented **Word2Vec**, **Multilingual Word Embedding**, **Orthogonalisation** and **Normalisation** <br>
 - Turned the pure **linear mapping** into **non‐linear mapping** to enhance the **expressiveness** of the model <br>
 - Modified to the network structure, improved all language pairs accuracy by **4%** with **initial dictionary** <br>
 
-### **Harbin Institute of Technology, Centre for Social Computing and Information Retrieval(SCIR)** `2017.3 - 2017.8`
+### **Harbin Institute of Technology, Centre for Social Computing and Information Retrieval(SCIR)** `HIT, 2017.3 - 2017.8`
 
 _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/)_<br>
 - Style transfer is to transfer a text into another style while **preserving its meaning**(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”) <br>
@@ -68,16 +76,21 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 
 ## Project
 
-Building an Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
+### Building a Dialog Chatbot for New Word Explaination `HIT, 2020.10 - 2020.11` <br>
+- **Crawl** the papers' title, abstract, keyword from the [CNKI](https://www.cnki.net), [Baidu Academic](https://xueshu.baidu.com) <br>
+- Identify which are the **new words** and retrieve **explainations** from [Baidu Pedia](https://baike.baidu.com) <br>
+- Build a chatbot which could interactively **explain** the new words <br>
+
+### Building an Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
 - Built a system which could **link the problem to the corresponding chapters** from the textbook <br>
 - Tried to use **BERT** to calculate the **sentence probability** but it turned out to be too **time-consuming**<br>
 - Used **Topic Modelling** in the final product <br>
 
-Amazon Review Prediction, `JHU, 2020.4 - 2020.5` <br>
+### Amazon Review Prediction `JHU, 2020.4 - 2020.5` <br>
 - Built a system which predicts the **rating of a comment text** <br>
 - Built a system which predicts the **potential categories the costumer will probably buy** according to the purchase history <br>
 
-Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
+### Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
 - Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 <br>
 - Trained Mario to kill **as many monsters as possible**
 
