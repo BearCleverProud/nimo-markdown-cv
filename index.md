@@ -29,7 +29,7 @@ Supported arguments:
 Harbin, China
 ```
 
-- B.Eng in Computer Science
+- B.Eng in Computer Science, Honour School of HIT
 - Natural Language Processing track, GPA: 3.72
 
 ### **the Johns Hopkins University** `2019.9 - 2021.5`
@@ -78,25 +78,25 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 
 ### Building a Dialog Chatbot for New Word Explaination `HIT, 2020.10 - 2020.11` <br>
 - **Crawl** the papers' title, abstract, keyword from the [CNKI](https://www.cnki.net), [Baidu Academic](https://xueshu.baidu.com) <br>
-- Identify which are the **new words** and retrieve **explainations** from [Baidu Pedia](https://baike.baidu.com) <br>
-- Build a chatbot which could interactively **explain** the new words <br>
+- Identify which are the **new words** and retrieve **explainations** from [Baidu Pedia](https://baike.baidu.com) to build a **JSON file**<br>
+- Build a chatbot which could interactively **explain** the new words from the file extracted from the second step<br>
 
 ### Building an Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
 - Built a system which could **link the problem to the corresponding chapters** from the textbook <br>
 - Tried to use **BERT** to calculate the **sentence probability** but it turned out to be too **time-consuming**<br>
-- Used **Topic Modelling** in the final product <br>
+- Used **Topic Modelling** in the final product with **Micro-Avg F-1 score 0.58** given 5 chapters in [Stanford NLP Book](https://web.stanford.edu/~jurafsky/slp3/) <br>
 
 ### Amazon Review Prediction `JHU, 2020.4 - 2020.5` <br>
-- Built a system which predicts the **rating of a comment text** <br>
-- Built a system which predicts the **potential categories the costumer will probably buy** according to the purchase history <br>
+- Built a system which predicts the **rating of a comment text** with **MSE 0.46** on the score scale of 0-5 using **CNN+BiLSTM** and **BERT**<br>
+- Built a system which predicts the **potential categories the costumer will probably buy** according to the purchase history with the **accuracy of 0.78** using **SVM** <br>
 
 ### Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
-- Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 <br>
+- Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 by 20 seconds<br>
 - Trained Mario to kill **as many monsters as possible**
 
 ## Honors & Awards
 
-RenMin Scholarship `HIT, 2015-2021` <br>
+First Class or Second Class of RenMin Scholarship `HIT, 2015-2021` <br>
 The Satellite Scholarship `HIT, 2016` <br>
 
 ---
