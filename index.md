@@ -76,12 +76,12 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 
 ## Project
 
-### Building a Dialog Chatbot for New Word Explaination `HIT, 2020.10 - 2020.11` <br>
+### Dialog Chatbot for New Word Explaination `HIT, 2020.10 - 2020.11` <br>
 - **Crawl** the papers' title, abstract, keyword from the [CNKI](https://www.cnki.net), [Baidu Academic](https://xueshu.baidu.com) <br>
 - Identify which are the **new words** and retrieve **explainations** from [Baidu Pedia](https://baike.baidu.com) to build a **JSON file**<br>
 - Build a chatbot which could interactively **explain** the new words from the file extracted from the second step<br>
 
-### Building an Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
+### Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
 - Built a system which could **link the problem to the corresponding chapters** from the textbook <br>
 - Tried to use **BERT** to calculate the **sentence probability** but it turned out to be too **time-consuming**<br>
 - Used **Topic Modelling** in the final product with **Micro-Avg F-1 score 0.58** given 5 chapters in [Stanford NLP Book](https://web.stanford.edu/~jurafsky/slp3/) <br>
@@ -93,6 +93,15 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 ### Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
 - Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 by 20 seconds<br>
 - Trained Mario to kill **as many monsters as possible**
+
+### Database for Crime Data in Baltimore `JHU, 2019.11 - 2019.12` <br>
+- Designed the **scheme** for the database
+- **Convert the csv file from [Baltimore Police Open Data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij) to SQL file** and import the data into the database
+- Designed some queries to extract some interesting information
+
+### Orbit System Generic class Development `HIT, 2019.2 - 2019.6` <br>
+- Built a Orbit System generic **class/interface**, along with 5 different applications using this generic **class/interface**
+- Implemented various design patterns like **Factory Pattern**, **Abstract Factory Pattern**, **Prototype Pattern**, **Adaptor Pattern**, **Bridge Pattern**, etc.
 
 ## Honors & Awards
 
