@@ -55,22 +55,31 @@ Cambridge, UK
 ### **the Johns Hopkins University, Centre for Language and Speech Processing** `2019.9 - 2020.7`
 
 _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/~phi/)_<br>
-**Studied** and **implemented** Word2Vec, Multilingual Word Embedding, Orthogonalisation and Normalisation
-**Turned** the pure linear mapping into non‐linear mapping to enhance the expressiveness of the model
-**modified** to the network structure, **improved** all language pairs accuracy by 4% with initial dictionary
+- Studied and implemented **Word2Vec**, **Multilingual Word Embedding**, **Orthogonalisation** and **Normalisation** <br>
+- Turned the pure **linear mapping** into **non‐linear mapping** to enhance the **expressiveness** of the model <br>
+- Modified to the network structure, improved all language pairs accuracy by **4%** with **initial dictionary** <br>
 
 ### **Harbin Institute of Technology, Centre for Social Computing and Information Retrieval(SCIR)** `2017.3 - 2017.8`
 
 _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/)_<br>
-Style transfer is to transfer a text into another style while preserving its meaning(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”)
-**Applied** back translation with different back-translation decoder
-**Employed** revised seq2seq model, reinforcement learning and GANs
+- Style transfer is to transfer a text into another style while **preserving its meaning**(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”) <br>
+- Applied **back translation** with different back-translation **decoders** to generate different styles <br>
+- Employed revised **seq2seq** model, **reinforcement learning** and **GANs** <br>
 
 ## Project
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+Building an Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
+- Built a system which could **link the problem to the corresponding chapters** from the textbook <br>
+- Tried to use **BERT** to calculate the **sentence probability** but it turned out to be too **time-consuming**<br>
+- Used **Topic Modelling** in the final product <br>
+
+Amazon Review Prediction, `JHU, 2020.4 - 2020.5` <br>
+- Built a system which predicts the **rating of a comment text** <br>
+- Built a system which predicts the **potential categories the costumer will probably buy** according to the purchase history <br>
+
+Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
+- Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 <br>
+- Trained Mario to kill **as many monsters as possible**
 
 ## Honors & Awards
 
