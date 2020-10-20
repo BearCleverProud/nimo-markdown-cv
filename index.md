@@ -65,7 +65,7 @@ Topic: Dialog Emotion Recognition
 _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/~phi/)_<br>
 - Studied and implemented **Word2Vec**, **Multilingual Word Embedding**, **Orthogonalisation** and **Normalisation** <br>
 - Turned the pure **linear mapping** into **non‐linear mapping** to enhance the **expressiveness** of the model <br>
-- Modified to the network structure, improved all language pairs accuracy by **4%** with **initial dictionary** <br>
+- Modified to the network structure, improved all language pairs accuracy by at least **2%** with **initial dictionary**, some **4%**<br>
 
 ### **Harbin Institute of Technology, Centre for Social Computing and Information Retrieval(SCIR)** `HIT, 2017.3 - 2017.8`
 
