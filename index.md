@@ -103,6 +103,11 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 - Built a Orbit System generic **class/interface**, along with 5 different applications using this generic **class/interface**
 - Implemented various design patterns like **Abstract Factory Pattern**, **Prototype Pattern**, **Adaptor Pattern**, **Bridge Pattern**, etc.
 
+### Machine Learning Applications on Wearable Devices `HIT, 2017.3 -2017.4` <br>
+- Collected force data from the joints and touching faces of the wearble suit
+- Used machine learning techniques to **minimise the overall forces**
+- Applied different methods like **Linear Regression**, **Decision Tree**, **Deep Learning**, etc. 
+
 ## Honors & Awards
 
 First Class or Second Class of RenMin Scholarship `HIT, 2015-2021` <br>
