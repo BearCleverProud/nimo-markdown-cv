@@ -71,8 +71,8 @@ _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/
 
 _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/)_<br>
 - Style transfer is to transfer a text into another style while **preserving its meaning**(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”) <br>
-- Applied **back translation** with different back-translation **decoders** to generate different styles <br>
-- Employed revised **seq2seq** model, **reinforcement learning** and **GANs** <br>
+- Applied **back translation** with different **decoders** to generate different styles using **GAN** <br>
+- Employed revised **seq2seq** model incorperating a given style language model, **reinforcement learning**. <br>
 
 ## Project
 
