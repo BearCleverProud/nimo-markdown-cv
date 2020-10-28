@@ -72,13 +72,13 @@ _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/
 _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/)_<br>
 - Style transfer is to transfer a text into another style while **preserving its meaning**(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”) <br>
 - Applied **back translation** with different **decoders** to generate different styles using **GAN** <br>
-- Employed revised **seq2seq** model incorporating a given style language model, and another **reinforcement learning** model with better performance. <br>
+- Employed a seq2seq model with **language model** of a given style, and another **reinforcement learning** model with even better performance. <br>
 
 ## Project
 
 ### Dialog Chatbot for New Word Explanation `HIT, 2020.10 - 2020.11` <br>
 - **Crawl** the papers' title, abstract, keyword from the [CNKI](https://www.cnki.net), [Baidu Academic](https://xueshu.baidu.com) <br>
-- Identify which are the **new words** and retrieve **Explanation** from [Baidu Pedia](https://baike.baidu.com) or [WikiPedia](https://www.wikipedia.org) to build a **JSON file**<br>
+- Identify which are the **new words** and retrieve **Explanation** from [BaiduBaike](https://baike.baidu.com) or [WikiPedia](https://www.wikipedia.org) to build a **JSON file**<br>
 - Build a chatbot which could interactively **explain** the new words from the file extracted from the second step<br>
 
 ### Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
