@@ -74,7 +74,7 @@ Topic: Style Transfer for Dialog Bot<br>
 - Applied **back translation** with different **decoders** to generate different styles using **GAN** <br>
 - Employed a seq2seq model with **language model** of a given style, and another **reinforcement learning** model with even better performance. <br>
 
-### Harbin Institute of Technology `HIT, 2017.11 -2017.12` <br>
+### **Harbin Institute of Technology** `HIT, 2017.11 -2017.12` <br>
 Topic: Machine Learning Applications on Wearable Devices <br>
 - **Collected force data** from the joints and touching faces of the wearble suit <br>
 - Used machine learning techniques to **minimise the overall forces** <br>
