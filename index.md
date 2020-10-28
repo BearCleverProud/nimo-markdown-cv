@@ -48,7 +48,7 @@ Cambridge, UK
 ```
 
 - Visiting Student
-- Grades: 89.6(Best Presentation Group Award)
+- Grades: 89.6(Best Group Award)
 
 ## Research Experience
 
@@ -111,7 +111,7 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 ## Honours & Awards
 
 First Class or Second Class of RenMin Scholarship `HIT, 2015-2021` <br>
-Best Presentation Group Award `University of Cambridge, 2017` <br>
+Best Group Award `University of Cambridge, 2017` <br>
 The Satellite Scholarship `HIT, 2016` <br>
 
 ---
