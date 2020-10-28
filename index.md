@@ -84,7 +84,7 @@ Topic: Machine Learning Applications on Wearable Devices <br>
 
 ### Dialog Chatbot for New Word Explanation `HIT, 2020.10 - 2020.11` <br>
 - **Crawled** the papers' title, abstract, keyword from the [CNKI](https://www.cnki.net), [Baidu Academic](https://xueshu.baidu.com) <br>
-- Identified which are the **new words** and retrieved **Explanation** from [BaiduBaike](https://baike.baidu.com) or [WikiPedia](https://www.wikipedia.org) to build a **JSON file**<br>
+- Identified which are the **new words** and retrieved **explanation** from [BaiduBaike](https://baike.baidu.com) or [WikiPedia](https://www.wikipedia.org) to build a **JSON file**<br>
 - Build a chatbot which could interactively **explain** the new words from the file extracted from the second step<br>
 
 ### Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
