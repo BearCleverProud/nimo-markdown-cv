@@ -67,12 +67,17 @@ _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/
 - Turned the pure **linear mapping** into **non‐linear mapping** to enhance the **expressiveness** of the model <br>
 - Modified to the network structure, improved all language pairs accuracy by at least **2%** with **initial dictionary**, some **4%**<br>
 
-### **Harbin Institute of Technology, Centre for Social Computing and Information Retrieval(SCIR)** `HIT, 2017.3 - 2017.8`
+### **Harbin Institute of Technology, Centre for Social Computing and Information Retrieval(SCIR)** `HIT, 2019.3 - 2019.8`
 
 _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/)_<br>
 - Style transfer is to transfer a text into another style while **preserving its meaning**(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”) <br>
 - Applied **back translation** with different **decoders** to generate different styles using **GAN** <br>
 - Employed a seq2seq model with **language model** of a given style, and another **reinforcement learning** model with even better performance. <br>
+
+### Machine Learning Applications on Wearable Devices `HIT, 2017.11 -2017.12` <br>
+- Collected force data from the joints and touching faces of the wearble suit
+- Used machine learning techniques to **minimise the overall forces**
+- Applied different methods like **Linear Regression**, **Decision Tree**, **Deep Learning**, etc. 
 
 ## Project
 
@@ -102,11 +107,6 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 ### Orbit System Generic class Development `HIT, 2019.2 - 2019.6` <br>
 - Built a Orbit System generic **class/interface**, along with 5 different applications using this generic **class/interface**
 - Implemented various design patterns like **Abstract Factory Pattern**, **Prototype Pattern**, **Adaptor Pattern**, **Bridge Pattern**, etc.
-
-### Machine Learning Applications on Wearable Devices `HIT, 2017.3 -2017.4` <br>
-- Collected force data from the joints and touching faces of the wearble suit
-- Used machine learning techniques to **minimise the overall forces**
-- Applied different methods like **Linear Regression**, **Decision Tree**, **Deep Learning**, etc. 
 
 ## Honours & Awards
 
