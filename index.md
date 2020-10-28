@@ -105,7 +105,7 @@ Topic: Machine Learning Applications on Wearable Devices <br>
 - **Convert the csv file to sql file** and import the data into the database
 - Designed some queries to extract some interesting information
 
-### Orbit System Generic class Development `HIT, 2019.2 - 2019.6` <br>
+### Orbit System Generic Class Development `HIT, 2019.2 - 2019.6` <br>
 - Built a Orbit System generic **class/interface**, along with 5 different applications using this generic **class/interface**
 - Implemented various design patterns like **Abstract Factory Pattern**, **Prototype Pattern**, **Adaptor Pattern**, **Bridge Pattern**, etc.
 
