@@ -48,7 +48,7 @@ Cambridge, UK
 ```
 
 - Visiting Student
-- Grades: 89.6
+- Grades: 89.6(Best Presentation Group Award)
 
 ## Research Experience
 
@@ -72,13 +72,13 @@ _Undergraduate Research supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/
 _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~wnzhang/)_<br>
 - Style transfer is to transfer a text into another style while **preserving its meaning**(e.g. ”I like this” ‐> ”Omg!!! I really like this!!!”) <br>
 - Applied **back translation** with different **decoders** to generate different styles using **GAN** <br>
-- Employed revised **seq2seq** model incorperating a given style language model, **reinforcement learning**. <br>
+- Employed revised **seq2seq** model incorporating a given style language model, and another **reinforcement learning** model with better performance. <br>
 
 ## Project
 
-### Dialog Chatbot for New Word Explaination `HIT, 2020.10 - 2020.11` <br>
+### Dialog Chatbot for New Word Explanation `HIT, 2020.10 - 2020.11` <br>
 - **Crawl** the papers' title, abstract, keyword from the [CNKI](https://www.cnki.net), [Baidu Academic](https://xueshu.baidu.com) <br>
-- Identify which are the **new words** and retrieve **explainations** from [Baidu Pedia](https://baike.baidu.com) to build a **JSON file**<br>
+- Identify which are the **new words** and retrieve **Explanation** from [Baidu Pedia](https://baike.baidu.com) or [WikiPedia](https://www.wikipedia.org) to build a **JSON file**<br>
 - Build a chatbot which could interactively **explain** the new words from the file extracted from the second step<br>
 
 ### Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
@@ -91,12 +91,12 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 - Built a system predicting the **categories the costumer will probably buy** given the purchase histories with the **accuracy of 0.78** using **SVM** <br>
 
 ### Super Mario Reinforcement Learning Project `JHU, 2020.4 - 2020.5` <br>
-- Built a neural network using **Proximal Policy Optimization**, which enables the Mario agent to finish world 1 level 1 by 20 seconds<br>
+- Built a neural network using **Proximal Policy Optimisation**, which enables the Mario agent to finish world 1 level 1 by 20 seconds<br>
 - Trained Mario to kill **as many monsters as possible**
 
 ### Database for Crime Data in Baltimore `JHU, 2019.11 - 2019.12` <br>
 - Designed the **scheme** for the database according to the dataset from [Baltimore Police Open Data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij)
-- **Convert the csv file to SQL file** and import the data into the database
+- **Convert the csv file to sql file** and import the data into the database
 - Designed some queries to extract some interesting information
 
 ### Orbit System Generic class Development `HIT, 2019.2 - 2019.6` <br>
@@ -108,9 +108,10 @@ _Undergraduate Research supervised by Dr. [Weinan Zhang](http://ir.hit.edu.cn/~w
 - Used machine learning techniques to **minimise the overall forces**
 - Applied different methods like **Linear Regression**, **Decision Tree**, **Deep Learning**, etc. 
 
-## Honors & Awards
+## Honours & Awards
 
 First Class or Second Class of RenMin Scholarship `HIT, 2015-2021` <br>
+Best Presentation Group Award `University of Cambridge, 2017` <br>
 The Satellite Scholarship `HIT, 2016` <br>
 
 ---
