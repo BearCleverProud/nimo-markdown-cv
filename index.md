@@ -52,11 +52,11 @@ Cambridge, UK
 
 ## Research Experience
 
-### **The Johns Hopkins University, Centre for Language and Speech Processing(CLSP)** `JHU, 2020.10 - NOW`
+### **The Johns Hopkins University, Centre for Language and Speech Processing(CLSP)** `JHU, 2020.10 - Present`
 _Undergraduate Research, co-work with [Kelly Marchisio](https://github.com/kellymarchisio) and supervised by Dr. [Philipp Koehn](http://www.cs.jhu.edu/~phi/)_<br>
 Topic: Semi-Supervised Machine Translation <br>
 
-### **Harbin Institute of Technology, Machine Intelligence and Translation Lab(MI&T Lab)** `HIT, 2020.10 - NOW`
+### **Harbin Institute of Technology, Machine Intelligence and Translation Lab(MI&T Lab)** `HIT, 2020.10 - Present`
 _Capstone Thesis, supervised by Dr. [Bing Xu](http://mitlab.hit.edu.cn/2018/0608/c9183a210160/page.htm)_<br>
 Topic: Dialog Emotion Recognition <br>
 
