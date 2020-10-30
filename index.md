@@ -89,7 +89,7 @@ Topic: Machine Learning Applications on Wearable Devices <br>
 
 ### Intelligent Platform for Teachers and Students `JHU, 2020.3 - 2020.5` <br>
 - Built a system which could **link the problem to the corresponding chapters** from the textbook <br>
-- Tried to use **BERT** to calculate the **sentence probability** but it turned out to be too **time-consuming**<br>
+- Tried to use **GPT-2** to calculate the **sentence probability** but it turned out to be too **time-consuming**<br>
 - Used **Topic Modelling** in the final product with **Micro-Avg F-1 score 0.58** given 5 chapters in [Stanford NLP Book](https://web.stanford.edu/~jurafsky/slp3/) <br>
 
 ### Amazon Review Prediction `JHU, 2020.4 - 2020.5` <br>
